@@ -1,7 +1,7 @@
 # Interactive Data Analyzer App
 
 ## 🚀 Live Demo
-[Click here to access the live app](#) *(Replace with actual live link)*
+[Click here to access the live app](https://interactive-data-analyzer.streamlit.app/)
 
 ## 📸 App Screenshots
 
